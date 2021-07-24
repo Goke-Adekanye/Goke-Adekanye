@@ -11,4 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Goke-Adekanye/blog-post-workflow@main
         with:
+          max_post_count: "4"
           feed_list: "https://medium.com/feed/@gokeadekanye"
