@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Goke-Adekanye/blog-post-workflow@main
+      - uses: gokeadekanye/blog-post-workflow@main
         with:
           max_post_count: "4"
           feed_list: "https://medium.com/feed/@gokeadekanye"
