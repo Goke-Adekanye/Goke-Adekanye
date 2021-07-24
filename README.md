@@ -31,4 +31,7 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [PERFORMANCE OPTIMIZATION TECHNIQUES IN REACT APPLICATIONS](https://gokeadekanye.medium.com/performance-optimization-techniques-in-react-applications-f9dd0394cbe9?source=rss-d3f4565df323------2)
+- [React 18 — New Features Introduced!](https://gokeadekanye.medium.com/react-18-new-features-introduced-dbc19579c260?source=rss-d3f4565df323------2)
+- [Deploying A MERN Application To Heroku(A Step-by-Step Guide)](https://gokeadekanye.medium.com/deploying-a-mern-application-to-heroku-a-step-by-step-guide-b0729af107f7?source=rss-d3f4565df323------2)
 <!-- BLOG-POST-LIST:END -->
