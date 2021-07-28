@@ -6,13 +6,13 @@
 
 - 📝 I regularly write articles on [https://gokeadekanye.medium.com/](https://gokeadekanye.medium.com/)
 
-- 💬 Ask me about **React, JavaScript, Node**
+- 💬 Ask me about **Software development, React**
 
 - 📫 How to reach me **adekanyeadegoke96@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3x2api4](https://bit.ly/3x2api4)
 
-- ⚡ Fun fact **I love my Mom**
+- ⚡ Fun fact **I only use VS Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
