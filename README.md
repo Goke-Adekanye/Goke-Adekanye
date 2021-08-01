@@ -22,7 +22,7 @@
 <a href="https://medium.com/@gokeadekanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokeadekanye" height="30" width="40" /></a>
 </p>
 
-📕 **MY Latest Blog Posts**
+📕 **My Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [PERFORMANCE OPTIMIZATION TECHNIQUES IN REACT APPLICATIONS](https://gokeadekanye.medium.com/performance-optimization-techniques-in-react-applications-f9dd0394cbe9?source=rss-d3f4565df323------2)
