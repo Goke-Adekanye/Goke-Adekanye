@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adekanyeadegoke96@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3x2api4](https://bit.ly/3x2api4)
+- 📄 Know more about me [https://gokeadekanye.netlify.app/about](https://gokeadekanye.netlify.app/about)
 
 - ⚡ Fun fact **I only use VS Code**
 
