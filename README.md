@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Goke Adekanye</h1>
 
-<h3 align="center">A professional Frontend Web Developer based in Lagos, Nigeria.</h3>
+<h3 align="center">A Developer with a Designer's eye</h3>
 
 <p align="left"> <a href="https://twitter.com/jvstblvck" target="blank"><img src="https://img.shields.io/twitter/follow/jvstblvck?logo=twitter&style=for-the-badge" alt="jvstblvck" /></a> </p>
 
