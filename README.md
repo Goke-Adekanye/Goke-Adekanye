@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jvstblvck" target="blank"><img src="https://img.shields.io/twitter/follow/jvstblvck?logo=twitter&style=for-the-badge" alt="jvstblvck" /></a> </p>
 
-- 📝 I sometimes write articles on software development at [https://gokeadekanye.medium.com/](https://gokeadekanye.medium.com/)
+- 📝 I sometimes write articles on software development on [medium](https://gokeadekanye.medium.com/)
 
 - 📫 How to reach me **adekanyeadegoke96@gmail.com**
 
