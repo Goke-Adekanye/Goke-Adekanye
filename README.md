@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Goke Adekanye</h1>
 
-<h5 align="center">Languages and Frameworks:
+<h3 align="center">Languages and Frameworks:
  - JavaScript, React.js, Next.js, Typescript, Node (Express.js), HTML, CSS, SCSS,
- Tailwind CSS, Git, Redux, Zustand, MongoDB..</h5>
+ Tailwind CSS, Git, Redux, Zustand, MongoDB..</h3>
 
 <p align="left"> <a href="https://twitter.com/jvstblvck" target="blank"><img src="https://img.shields.io/twitter/follow/jvstblvck?logo=twitter&style=for-the-badge" alt="jvstblvck" /></a> </p>
 
