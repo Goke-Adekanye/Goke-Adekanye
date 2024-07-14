@@ -25,7 +25,7 @@
 📕 **RECENT PROJECTS**
 
 <!-- BLOG-POST-LIST:START -->
-- [FULLSTACK WEB BANKING APPLICATION](https://apebanking.netlify.app?source=rss-d3f4565df323------2)
+- [Fullstack web banking application](https://apebanking.netlify.app)
 - [React 18 — New Features Introduced!](https://gokeadekanye.medium.com/react-18-new-features-introduced-dbc19579c260?source=rss-d3f4565df323------2)
 - [Deploying A MERN Application To Heroku&lpar;A Step-by-Step Guide&rpar;](https://gokeadekanye.medium.com/deploying-a-mern-application-to-heroku-a-step-by-step-guide-b0729af107f7?source=rss-d3f4565df323------2)
 <!-- BLOG-POST-LIST:END -->
