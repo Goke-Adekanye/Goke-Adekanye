@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Goke Adekanye</h1>
 
-<h3 align="center">Experienced with the following programming languages and technologies: JavaScript, React.JS, TypeScript, Node.JS, HTML, CSS, SCSS, Bootstrap, Tailwind CSS, Cypress, Git, MongoDB, JSON.</h3>
+<h5 align="center">Languages and Frameworks:
+ - JavaScript, React.js, Next.js, Typescript, Node (Express.js), HTML, CSS, SCSS,
+ Tailwind CSS, Git, Redux, Zustand, MongoDB..</h5>
 
 <p align="left"> <a href="https://twitter.com/jvstblvck" target="blank"><img src="https://img.shields.io/twitter/follow/jvstblvck?logo=twitter&style=for-the-badge" alt="jvstblvck" /></a> </p>
 
 - 📝 I sometimes write articles on software development at [https://gokeadekanye.medium.com/](https://gokeadekanye.medium.com/)
-
-- 💬 Ask me about **Software development, React**
 
 - 📫 How to reach me **adekanyeadegoke96@gmail.com**
 
