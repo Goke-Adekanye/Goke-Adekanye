@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adekanyeadegoke96@gmail.com**
 
-- 📄 Know more about me [https://gokeadekanye.netlify.app/about](https://gokeadekanye.netlify.app/about)
+- 📄 Know more about me [Read more..](https://gokeadekanye.netlify.app/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
