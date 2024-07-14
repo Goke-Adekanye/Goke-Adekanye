@@ -22,10 +22,10 @@
 <a href="https://medium.com/@gokeadekanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokeadekanye" height="30" width="40" /></a>
 </p>
 
-📕 **My Latest Blog Posts**
+📕 **RECENT PROJECTS**
 
 <!-- BLOG-POST-LIST:START -->
-- [PERFORMANCE OPTIMIZATION TECHNIQUES IN REACT APPLICATIONS](https://gokeadekanye.medium.com/performance-optimization-techniques-in-react-applications-f9dd0394cbe9?source=rss-d3f4565df323------2)
+- [FULLSTACK WEB BANKING APPLICATION](https://apebanking.netlify.app?source=rss-d3f4565df323------2)
 - [React 18 — New Features Introduced!](https://gokeadekanye.medium.com/react-18-new-features-introduced-dbc19579c260?source=rss-d3f4565df323------2)
 - [Deploying A MERN Application To Heroku&lpar;A Step-by-Step Guide&rpar;](https://gokeadekanye.medium.com/deploying-a-mern-application-to-heroku-a-step-by-step-guide-b0729af107f7?source=rss-d3f4565df323------2)
 <!-- BLOG-POST-LIST:END -->
