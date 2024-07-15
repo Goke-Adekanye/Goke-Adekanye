@@ -23,7 +23,7 @@
 📕 **RECENT PROJECTS**
 
 <!-- PROJECT-LIST:START -->
-- [Fullstack web banking application](https://apebanking.netlify.app)
+- [Web banking application](https://apebanking.netlify.app)
 - [Health fitness website](https://activefusionv1.netlify.app)
 - [React portfolio website](https://gokeadekanye.netlify.app)
 - [Web scheduling application](https://schedully.netlify.app)
