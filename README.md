@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Goke Adekanye</h1>
 
-<p align="start">I am a skilled software developer with a track record of building and maintaining solutions for web applications. With experience as a frontend developer in previous roles, I possess excellent leadership, collaboration, and technical skills. I am proficient in various modern technologies such as ReactJS, NextJS, Typescript, HTML, CSS and Tailwind CSS, and I have built scalable and maintainable user-centric web applications. I have also used NodeJS to develop secure REST APIs for server-side development. <br/><br/>
+<p align="start">I am a skilled software developer with a track record of building and maintaining solutions for web applications. With experience as a frontend developer in previous roles, I possess excellent leadership, collaboration, and technical skills. I am proficient in various modern technologies such as ReactJS, NextJS, Typescript, HTML, CSS and Tailwind CSS, and I have built scalable and maintainable user-centric web applications. I have also used NodeJS to develop secure REST APIs for server-side development. <br/>
 
 My dedication to keeping up with the latest web development advancements reflects my passion for innovation. I am committed to delivering reliable, user-friendly services to a large user base while ensuring seamless deployment and operation. I would be thrilled to bring my expertise to your organization and help you achieve your goals..</p>
 
