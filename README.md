@@ -25,6 +25,7 @@ My dedication to keeping up with the latest web development advancements reflect
 <!-- PROJECT-LIST:START -->
 - [Web banking application](https://apebanking.netlify.app)
 - [Health fitness website](https://activefusionv1.netlify.app)
+- [Web scheduling application](https://schedully.netlify.app)
 - [React portfolio website](https://gokeadekanye.netlify.app)
 <!-- PROJECT-LIST:END -->
 
