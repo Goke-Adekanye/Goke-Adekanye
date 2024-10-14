@@ -23,7 +23,7 @@ My dedication to keeping up with the latest web development advancements reflect
 📕 **RECENT PROJECTS**
 
 <!-- PROJECT-LIST:START -->
-- [Web banking application](https://apebanking.netlify.app)
+- [Web banking application](https://apebank.vercel.app)
 - [Body fitness website](https://activefusionfitness.vercel.app)
 - [Web scheduling application](https://schedully.vercel.app)
 - [React portfolio website](https://gokeadekanye.netlify.app)
