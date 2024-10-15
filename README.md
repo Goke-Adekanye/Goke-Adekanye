@@ -18,13 +18,12 @@
 </p>
 
 
-📕 **RECENT PROJECTS**
+📕 **RECENT WORKS**
 
 <!-- PROJECT-LIST:START -->
 - [Web banking application](https://apebank.vercel.app)
 - [Body fitness website](https://activefusionfitness.vercel.app)
 - [Web scheduling application](https://schedully.vercel.app)
-- [React portfolio website](https://gokeadekanye.netlify.app)
 <!-- PROJECT-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
