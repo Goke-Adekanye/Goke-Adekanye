@@ -1,29 +1,112 @@
-<h1 align="center">Hi 👋, I'm Goke Adekanye</h1>
+# Goke Adekanye
+### Frontend Developer
 
-<p align="start">Frontend Developer with extensive experience in creating visually appealing, user-centric, and high-performant digital solutions using React, TypeScript, and cutting-edge frontend technologies. Skilled in improving user experiences and collaborating with cross-functional teams to deliver high-quality software solutions. Looking to leverage my expertise in web application development to contribute to innovative projects in a dynamic team environment.<br/></p>
+## 👋 About Me
+Frontend Developer with extensive experience in creating visually appealing, user-centric, and high-performant digital solutions using React, TypeScript, and cutting-edge frontend technologies. Skilled in improving user experiences and collaborating with cross-functional teams to deliver high-quality software solutions. Looking to leverage my expertise in web application development to contribute to innovative projects in a dynamic team environment.
 
-<p align="left"> <a href="https://twitter.com/jvstblvck" target="blank"><img src="https://img.shields.io/twitter/follow/jvstblvck?logo=twitter&style=for-the-badge" alt="jvstblvck" /></a> </p>
+## 🛠️ Technical Skills
 
-- 📝 I sometimes write articles on software development on [medium](https://gokeadekanye.medium.com/)
+### Languages
+- JavaScript (ES6+)
+- TypeScript
+- HTML
+- CSS
+- Python
 
-- 📫 How to reach me **adekanyeadegoke96@gmail.com**
+### Frontend
+- React
+- Next.js
+- Redux
+- Zustand
+- React Query
+- Material-UI
+- Tailwind CSS
+- Bootstrap
 
-- 📄 Know more about me [Read more..](https://gokeadekanye.netlify.app/about)
+### Backend & Databases
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Tools & Others
+- Git
+- Webpack
+- Cypress
+- RESTful APIs
+- CI/CD
+- Agile/Scrum
+- Web Performance Optimization
+- Cross-Browser Compatibility
+- Responsive Web Design
 
-<a href="https://linkedin.com/in/goke-adekanye" target="blank">LinkedIn</a>
-</p>
+## 💼 Professional Experience
 
+### Frontend Developer | Figtec (Nov 2021 – Mar 2023)
+- Developed key product features including login, registration, and user dashboard sections using TypeScript, reducing runtime errors by 40%
+- Implemented performance optimization techniques resulting in:
+  - 20% improvement in page load speed
+  - 15% increase in user engagement
+- Led migration to React-TypeScript architecture, reducing bug reports by 30%
+- Enhanced user experience, increasing new feature adoption by 25%
 
-📕 **RECENT WORKS**
+### Frontend Developer | PTG (Mar 2020 – Nov 2021)
+- Engineered responsive UIs driving 30% increase in customer satisfaction
+- Led e-commerce website development for a grocery company
+- Enhanced mobile user engagement by 35% through mobile-first design
+- Reduced project delivery times by 20% through agile methodologies
 
-<!-- PROJECT-LIST:START -->
-- [Web banking application](https://apebank.vercel.app)
-- [Body fitness website](https://activefusionfitness.vercel.app)
-- [Web scheduling application](https://schedully.vercel.app)
-<!-- PROJECT-LIST:END -->
+## 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+> **Note:** The Node web services for these projects are deployed on a free tier which spins down after 15 minutes of inactivity. The first request after the service is spun down may take a while, but subsequent requests should be faster.
+
+### Web Banking Application
+**Technologies:** Node.js (Express), React, TypeScript, Radix-UI, Tailwind CSS, MongoDB, React-Paystack
+
+A secure full-stack banking application featuring:
+- Account management and secured fund transfers
+- Token-based authentication
+- MongoDB transactions for data integrity
+- Type-safe UI with reduced bug reports by 50%
+
+[View Project →](https://apebank.vercel.app)
+
+### Event Scheduling Application
+**Technologies:** Node.js (Express), React, TypeScript, Tailwind CSS, MongoDB, Google OAuth
+
+A comprehensive scheduling solution featuring:
+- Personalized calendars and event creation
+- Real-time updates
+- Google OAuth integration
+- 25% reduction in account creation abandonment
+
+[View Project →](https://schedully.vercel.app)
+
+### Fitness Website
+**Technologies:** React, HTML, CSS, GSAP
+
+A visually stunning fitness website featuring:
+- Custom brand identity and visual design
+- Advanced GSAP animations
+- Optimized performance and user experience
+
+[View Project →](https://activefusionfitness.vercel.app)
+
+## 📚 Education
+**Adekunle Ajasin University, Akungba** (2014 – 2018)  
+Bachelor of Science, Computer Science
+
+## 🏅 Certifications
+- Back End Development and APIs (Freecodecamp, 2022)
+- JavaScript Algorithms and Data Structures Developer Certification (Freecodecamp, 2021)
+
+## 📫 Get in Touch
+- Location: Lagos, Nigeria
+- Phone: +2348068350106
+- Email: adekanyeadegoke96@gmail.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/goke-adekanye/)
+- GitHub: [Follow me](https://github.com/Goke-Adekanye)
+
+---
+
+Feel free to reach out if you'd like to collaborate on projects or discuss opportunities!
