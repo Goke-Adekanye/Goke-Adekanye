@@ -64,20 +64,19 @@ Frontend Developer with extensive experience in creating visually appealing, use
 **Technologies:** Node.js (Express), React, TypeScript, Radix-UI, Tailwind CSS, MongoDB, React-Paystack
 
 A secure full-stack banking application featuring:
-- Account management, secured fund transfers, fund deposits, save beneficiaries, and transaction history
-- Token-based authentication
-- MongoDB transactions for data integrity
-- Type-safe UI with reduced bug reports by 50%
+- A web application with features including account management, secured fund transfers, fund deposits, saving beneficiaries, and transaction history.
+- Token-based authentication and authorization, to enhance security measures.
+- MongoDB transactions to ensure 100% data integrity across operations, eliminating data loss incidents.
+- Responsive and type-safe UI using React and TypeScript, improving user experience and reducing bug reports by 50%.
 
 [View Project →](https://apebank.vercel.app)
 
 ### Event Scheduling Application
 **Technologies:** Node.js (Express), React, TypeScript, Tailwind CSS, MongoDB, Google OAuth
 
-A comprehensive scheduling solution featuring:
-- Personalized calendars, event creation, upcoming events, notifications, saved contacts, and user-specific information
-- Real-time updates
-- Google OAuth integration resulting in a 25% reduction in account creation abandonment
+- Designed and launched a comprehensive scheduling solution that streamlined scheduling processes by eliminating scheduling conflicts for users. With features including personalized calendars, event creation, and notifications.
+- Built an intuitive, real-time updating UI using React and TypeScript, showcasing upcoming events, saved contacts, and user-specific information.
+- Integrated Google OAuth for authentication, resulting in a more seamless and smooth user experience as measured by internal user feedback during testing, reducing account creation abandonment rates by 25%.
 
 [View Project →](https://schedully.vercel.app)
 
