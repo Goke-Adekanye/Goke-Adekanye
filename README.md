@@ -1,7 +1,4 @@
-# Goke Adekanye
-### Frontend Developer
-
-## 📫 Get in Touch
+### 📫 Get in Touch
 - Location: Lagos, Nigeria
 - Phone: +2348068350106
 - Email: adekanyeadegoke96@gmail.com
